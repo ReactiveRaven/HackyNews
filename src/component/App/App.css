@@ -1,0 +1,45 @@
+.App {
+    width: 85%;
+    margin: auto;
+    background: #f6f6ef;
+}
+
+.App-header {
+    background-color: #ff6600;
+    width: 100%;
+    font-size: calc(10px + 2vmin);
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.App-header h1 {
+    font-size: calc(10px + 2vmin);
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    margin-right: 16px;
+    display: inline-block;
+}
+
+.App-header ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: inline-block;
+}
+
+.App-header li {
+    display: inline;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.App-header li.active {
+    color: white;
+}
+
+.App .loading {
+    display: block;
+    text-align: center;
+    padding: 8px;
+}

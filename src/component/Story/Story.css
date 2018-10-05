@@ -1,0 +1,13 @@
+.story {
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.story h2 {
+    margin: 0;
+    padding: 0;
+}
+
+.story span {
+    color: #828282;
+}
